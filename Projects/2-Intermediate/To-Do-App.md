@@ -24,7 +24,7 @@ The classic To-Do application where a user can write down all the things he want
 -   [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 ## Example projects
-
+-   [Todo-App example with React](https://github.com/Danguya/todo-app) by [Wilmy Danguya](https://github.com/Danguya/)
 -   [Todo App built with React](http://todomvc.com/examples/react/#/)
 -   [To Do List on Codepen](https://codepen.io/yesilfasulye/pen/eJIuF) by [Burak Kaya](https://codepen.io/yesilfasulye/)
 -   [Todo App in Plain JavaScript](https://safdarjamal.github.io/todo-app/)
